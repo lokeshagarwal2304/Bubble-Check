@@ -1,6 +1,7 @@
 # Bubble-check SaaS - Project Management Application
 
 A comprehensive project tracking and ticket management SaaS application built with Next.js 16, React 19, and Tailwind CSS. Features a beautiful glassmorphic design with purple gradients, full authentication, database integration, and advanced project management capabilities.
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/e0599c0e-b64e-4767-83e4-347f45da678d" />
 
 ## Features
 
